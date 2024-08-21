@@ -25,7 +25,7 @@ This project is a URL shortener service built using Go, Fiber web framework, and
 
 ### Running the application
 
-1. Clone the repository
+1. Clone the repository  `git clone https://github.com/inagib21/shorten-url-fiber-redis.git`
 2. Navigate to the project directory
 3. Run the following command:
 
