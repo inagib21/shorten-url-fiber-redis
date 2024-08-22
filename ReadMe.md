@@ -27,14 +27,10 @@ This project is a URL shortener service built using Go, Fiber web framework, and
 
 Running the Application
 Clone the repository:
-
-bash
-Copy code
+<tab><tab>
 git clone https://github.com/inagib21/shorten-url-fiber-redis.git
 Navigate to the project directory:
-
-bash
-Copy code
+<tab><tab>
 cd shorten-url-fiber-redis
 Build and start the application using Docker Compose:
 
