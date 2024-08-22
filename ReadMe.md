@@ -25,15 +25,16 @@ This project is a URL shortener service built using Go, Fiber web framework, and
 
 ### Running the application
 
-Running the Application
-
-Build and start the application using Docker Compose:
-
-bash
-Copy code
-docker-compose up --build
+1. Clone the repository
+2. Navigate to the project directory
+3. Run the following command:
 
 docker-compose up --build
+
+
+The API will be available at `http://localhost:3000`
+
+
 
 
 The API will be available at `http://localhost:3000`
